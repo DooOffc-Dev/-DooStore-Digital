@@ -1,0 +1,16 @@
+# Ignore files
+.env
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+node_modules/
+vendor/
+.env.local
+.env.*.local
+*.log
+backup.sql
+.htaccess
+config.local.php
